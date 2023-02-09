@@ -45,5 +45,5 @@ try
 }
 catch(IOException e)
 {
-    Console.WriteLine("An error occurred: " + e.Message);
+    Console.Write("An error occurred: " + e.Message);
 }
